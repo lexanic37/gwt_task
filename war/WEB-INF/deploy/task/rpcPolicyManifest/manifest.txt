@@ -1,0 +1,3 @@
+# Module task
+# RPC service class, partial path of RPC policy file
+com.gwt.task.client.GreetingService, AA5411943D11113A8004E5BBF29A8E7F.gwt.rpc

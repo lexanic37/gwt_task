@@ -1,0 +1,2 @@
+serviceClass: com.gwt.task.client.GreetingService
+path: AA5411943D11113A8004E5BBF29A8E7F.gwt.rpc
